@@ -29,3 +29,6 @@ if (mailsApproved === true){
 }else{
     console.log(`ritenta, mail errata o non esistente`);
 }
+
+
+
